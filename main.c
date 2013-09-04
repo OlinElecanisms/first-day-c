@@ -1,6 +1,7 @@
-#include <stdlib.h>
+#include <stdio.h>
 #include <stdint.h>
 
-uint16_t main(void) {
-    printf("Hello World!");
+int32_t main(void) {
+    printf("Hello World!\n");
+    return 1;
 }
