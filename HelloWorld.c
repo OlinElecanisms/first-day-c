@@ -1,7 +1,9 @@
 #include <stdio.h>
-#include <stdint.h>
-
-int32_t main(void) {
-    printf("Hello World!\n");
-    return 1;
+int main()
+{
+   /* printf function displays the content that is
+    * passed between the double quotes.
+    */
+   printf("Hello World");
+   return 0;
 }
