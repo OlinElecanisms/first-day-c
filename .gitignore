@@ -1,6 +1,6 @@
 # Object files
 *.o
-
+.idea
 # Libraries
 *.lib
 *.a
